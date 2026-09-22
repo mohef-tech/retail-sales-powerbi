@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+P001,Air Mineral 600ml,Minuman,2500,4000
+P002,Teh Botol,Minuman,3500,5500
+P003,Kopi Kaleng,Minuman,6000,9500
+P004,Jus Jeruk,Minuman,7000,11000
+P005,Soda,Minuman,5500,8500
+P006,Keripik Kentang,Makanan Ringan,7000,11500
+P007,Biskuit,Makanan Ringan,6000,9500
+P008,Coklat Batang,Makanan Ringan,8500,13500
+P009,Kacang Kemasan,Makanan Ringan,5500,9000
+P010,Wafer,Makanan Ringan,4500,7500
+P011,Sabun Cuci Piring,Kebutuhan Rumah Tangga,9000,15000
+P012,Deterjen,Kebutuhan Rumah Tangga,14000,22000
+P013,Tisu,Kebutuhan Rumah Tangga,10000,16500
+P014,Pembersih Lantai,Kebutuhan Rumah Tangga,11000,18000
+P015,Kantong Sampah,Kebutuhan Rumah Tangga,7000,12000
+P016,Sampo,Perawatan Diri,13000,21000
+P017,Sabun Mandi,Perawatan Diri,6000,10000
+P018,Pasta Gigi,Perawatan Diri,8500,14000
+P019,Sikat Gigi,Perawatan Diri,5000,8500
+P020,Lotion,Perawatan Diri,15000,24000
+P021,Beras 5kg,Sembako,55000,68000
+P022,Minyak Goreng,Sembako,22000,29000
+P023,Gula Pasir,Sembako,14000,18500
+P024,Telur,Sembako,25000,32000
+P025,Tepung Terigu,Sembako,10000,14000
